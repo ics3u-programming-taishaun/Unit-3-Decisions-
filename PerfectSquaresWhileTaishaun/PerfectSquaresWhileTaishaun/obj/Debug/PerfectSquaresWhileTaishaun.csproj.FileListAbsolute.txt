@@ -1,0 +1,5 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\PerfectSquaresWhileTaishaun\PerfectSquaresWhileTaishaun\obj\Debug\PerfectSquaresWhileTaishaun.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\PerfectSquaresWhileTaishaun\PerfectSquaresWhileTaishaun\obj\Debug\PerfectSquaresWhileTaishaun.FrmPerfectSquares.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\PerfectSquaresWhileTaishaun\PerfectSquaresWhileTaishaun\obj\Debug\PerfectSquaresWhileTaishaun.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\PerfectSquaresWhileTaishaun\PerfectSquaresWhileTaishaun\obj\Debug\PerfectSquaresWhileTaishaun.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\PerfectSquaresWhileTaishaun\PerfectSquaresWhileTaishaun\obj\Debug\PerfectSquaresWhileTaishaun.csproj.CoreCompileInputs.cache
