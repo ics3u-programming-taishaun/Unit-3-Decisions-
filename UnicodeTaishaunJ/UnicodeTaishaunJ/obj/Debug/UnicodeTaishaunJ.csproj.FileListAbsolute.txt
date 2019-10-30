@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.UnicodeForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\bin\Debug\UnicodeTaishaunJ.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\bin\Debug\UnicodeTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\bin\Debug\UnicodeTaishaunJ.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 3 (Decisions)\UnicodeTaishaunJ\UnicodeTaishaunJ\obj\Debug\UnicodeTaishaunJ.pdb
